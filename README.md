@@ -2,7 +2,7 @@
 
 ## 배포 링크
 ___
-링크: [Kakao-makers-clone 홈페이지]("http")
+링크: [Kakao-makers-clone 홈페이지](https://inspiring-rolypoly-daeb48.netlify.app/)
 
 <br></br>
 ## 화면
